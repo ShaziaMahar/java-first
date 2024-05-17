@@ -55,8 +55,8 @@
 // let name = prompt(" what is your name");
 // console.log(name);
 
-let rendomNumber = Math.rendom();
-console.log(rendomNumber);
+// let rendomNumber = Math.rendom();
+// console.log(rendomNumber);
 
 // let rendomNumber = Math.rendom();
 // rendomNumber = rendomNumber * 10;
