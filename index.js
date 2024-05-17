@@ -1,3 +1,11 @@
+ let num = 77;
+ let num2 = 2;
+ console.log(num + num2);
+
+
+
+
+
 // let num = 77;
 // num = 776;
 // num = 88;
